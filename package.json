@@ -1,0 +1,16 @@
+{
+  "name": "rule-engine",
+  "version": "1.0.0",
+  "description": "A rule engine application using AST",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.21.1",
+    "mongoose": "^5.13.22"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
